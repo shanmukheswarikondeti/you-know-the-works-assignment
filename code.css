@@ -1,0 +1,160 @@
+.bg-container {
+    background-color: #fa99a6;
+    background-size: cover;
+    
+}
+
+.cont {
+    text-align: center;
+}
+
+.icon-container {
+    background-color: transparent;
+    border-radius: 50px;
+    border: 3px #051d7d solid;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+
+.icon {
+    color: #051d7d;
+    height: 55px;
+    text-align: center;
+}
+
+.name {
+    color: #051d7d;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.content1 {
+    width: 150px;
+    padding-left: 30px;
+}
+
+.heading {
+    color: #051d7d;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.role {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.vl {
+    border-left: 4px solid #051d7d;
+    height: 140px;
+    position: absolute;
+    top: 0;
+    margin-left: 240px;
+    margin-top: 25px;
+}
+
+.vi {
+    height: 200px;
+    border: 4px solid #051d7d;
+    margin-left: 30px;
+    position: relative;
+    border-left: none;
+}
+
+.content2 {
+    margin-left: 140px;
+    width: 250px;
+}
+
+.des {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.item {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+    top: 0;
+}
+
+.items {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+    top: 0;
+}
+
+.hr-line {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 85vw;
+    border: 2px solid #051d7d;
+}
+
+.profile-icon {
+    color: #051d7d;
+    height: 55px;
+    text-align: center;
+}
+
+.intrests {
+    margin-left: 60px;
+}
+
+.icons {
+    height: 45px;
+}
+
+.icons-container {
+    background-color: #051d7d;
+    color: #fa7889;
+    border-radius: 50px;
+    border: 3px #051d7d solid;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+
+.conts {
+    margin-left: 20px;
+}
+
+.con {
+    width: 90px;
+}
+
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #051d7d;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.years {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.college {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.degree {
+    color: #051d7d;
+    font-size: 13px;
+    font-weight: 500;
+}
